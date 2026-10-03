@@ -1,0 +1,4 @@
+metric,value
+refund_flag_error_rate,0.7985781990521327
+reason_code_accuracy,0.031949664977937574
+sample_rows_validated,12238.0
